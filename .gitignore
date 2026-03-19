@@ -32,9 +32,7 @@ wheels/
 
 # 数据文件（保留目录结构，具体数据可选提交）
 data/raw/
-data/frames/
 data/images/
-data/labels/
 
 # 结果
 results/
