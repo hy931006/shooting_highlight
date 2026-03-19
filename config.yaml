@@ -1,0 +1,80 @@
+# 项目配置
+
+# 检测类别
+CLASSES:
+  - name: basketball
+    id: 0
+  - name: hoop
+    id: 1
+  - name: player
+    id: 2
+
+# 数据集配置
+DATASET:
+  # 图像大小（训练时 resize）
+  img_size: 640
+  # 训练/验证集比例
+  train_split: 0.8
+  # 数据增强
+  augmentation:
+    hsv_h: 0.015
+    hsv_s: 0.7
+    hsv_v: 0.4
+    flipud: 0.0
+    fliplr: 0.5
+    mosaic: 1.0
+    mixup: 0.0
+
+# 训练配置
+TRAIN:
+  # 预训练模型
+  # 可选：yolov8n.pt, yolov8s.pt, yolov8m.pt, yolov8l.pt, yolov8x.pt
+  # n=nano(最快), s=small, m=medium, l=large, x=extra-large(最慢但最准)
+  model: yolov8m.pt
+  # 训练轮数
+  epochs: 100
+  # 批次大小（根据 GPU 显存调整）
+  batch: 16
+  # 图像大小
+  imgsz: 640
+  # 设备：cpu, 0, 1, 2, 3 或 multi
+  device: 0
+  # workers 数量
+  workers: 4
+  # 优化器
+  optimizer: SGD
+  # 学习率
+  lr0: 0.01
+  # 早停
+  patience: 50
+  # 保存周期
+  save_period: 10
+
+# 推理配置
+DETECT:
+  # 置信度阈值
+  conf: 0.25
+  # NMS IoU 阈值
+  iou: 0.45
+  # 最大检测数
+  max_det: 300
+
+# 路径配置
+PATHS:
+  # 数据目录
+  data_dir: data
+  # 原始视频
+  raw_videos: data/raw
+  # 提取的帧
+  frames_dir: data/frames
+  # 标注文件
+  labels_dir: data/labels
+  # 训练数据
+  train_images: data/images/train
+  val_images: data/images/val
+  train_labels: data/labels/train
+  val_labels: data/labels/val
+  # 模型输出
+  models_dir: models
+  # 推理结果
+  results_dir: results

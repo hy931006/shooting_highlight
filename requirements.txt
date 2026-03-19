@@ -1,0 +1,24 @@
+# YOLOv8 目标检测
+ultralytics>=8.2.0
+
+# YOLO-World 预标注（可选，用于自动预标注）
+supervision>=0.18.0
+
+# 视频处理
+opencv-python>=4.8.0
+
+# 数据标注工具
+labelimg>=1.8.6
+
+# 数据处理
+pillow>=10.0.0
+numpy>=1.24.0
+
+# 配置管理
+pyyaml>=6.0
+
+# 进度条
+tqdm>=4.65.0
+
+# 可选：GPU 支持（如果系统有 NVIDIA GPU）
+# torch torchvision 会根据系统自动选择 CPU 或 GPU 版本
