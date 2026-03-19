@@ -30,12 +30,11 @@ wheels/
 *.pt
 !requirements.txt
 
-# 数据文件
-data/raw/*
-data/frames/*
+# 数据文件（保留目录结构，具体数据可选提交）
+data/raw/
+data/frames/
 data/images/
 data/labels/
-!data/.gitkeep
 
 # 结果
 results/
