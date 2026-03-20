@@ -233,10 +233,124 @@ python src/train.py train --data data/basketball.yaml --batch 8
 2. 减小图像尺寸：`--imgsz 416`
 3. 导出为 ONNX 或 TensorRT
 
+## 投篮检测与精彩集锦
+
+### 1. 投篮检测
+
+检测视频中的进球/丢球事件：
+
+```bash
+# 基本用法（使用 CPU）
+python -m src.shot_detector ./video.mp4 --output results/shots.json
+
+# 指定输出路径
+python -m src.shot_detector ./video.mp4 -o results/shots.json
+
+# 指定设备
+python -m src.shot_detector ./video.mp4 -o results/shots.json -d cpu   # CPU
+python -m src.shot_detector ./video.mp4 -o results/shots.json -d 0    # NVIDIA GPU
+python -m src.shot_detector ./video.mp4 -o results/shots.json -d directml  # AMD GPU (需要 DirectML 版 PyTorch)
+
+# 调整置信度阈值
+python -m src.shot_detector ./video.mp4 -o results/shots.json --conf 0.3
+```
+
+**参数说明：**
+- `--device, -d`: 推理设备 (cpu, directml, 0, 1, 2, 3)
+- `--conf, -c`: 置信度阈值 (默认 0.25)
+- `--output, -o`: 输出 JSON 文件路径
+- `--model, -m`: 指定模型文件路径
+
+**输出格式 (JSON)：**
+```json
+{
+  "video": "./video.mp4",
+  "events": [
+    {"type": "made", "timestamp": 12.5, "confidence": 0.95, "trajectory_points": 45},
+    {"type": "missed", "timestamp": 25.3, "confidence": 0.42, "trajectory_points": 30}
+  ],
+  "summary": {
+    "total_made": 10,
+    "total_missed": 5,
+    "duration": 60.0
+  }
+}
+```
+
+### 2. 生成精彩集锦
+
+根据检测结果，截取进球片段并拼接成集锦视频：
+
+```bash
+# 基本用法（进球前2秒 + 进球后1秒）
+python create_highlight.py
+
+# 指定视频和结果文件
+python create_highlight.py ./video.mp4 ./results/shots.json ./highlight.mp4
+
+# 调整截取时长
+# 修改 create_highlight.py 中的默认参数：
+before = 3.0  # 进球前3秒
+after = 2.0   # 进球后2秒
+```
+
+### 3. 查看检测结果
+
+```bash
+# 查看进球数量
+python -c "
+import json
+with open('results/shots.json') as f:
+    data = json.load(f)
+made = len([e for e in data['events'] if e['type'] == 'made'])
+missed = len([e for e in data['events'] if e['type'] == 'missed'])
+print(f'进球: {made}, 丢球: {missed}')
+"
+
+# 查看具体时间点
+python -c "
+import json
+with open('results/shots.json') as f:
+    data = json.load(f)
+for e in data['events']:
+    if e['type'] == 'made':
+        print(f'进球: {e[\"timestamp\"]:.2f}s')
+"
+```
+
+## 设备配置
+
+### 安装 GPU 版本 PyTorch
+
+**NVIDIA GPU (CUDA)：**
+```bash
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+```
+
+**AMD GPU (DirectML)：**
+```bash
+pip install torch-directml
+# 注意：DirectML 版本需要特定 PyTorch 版本支持
+```
+
+### 训练时指定设备
+
+```bash
+# 单 GPU
+python -m src.train --device 0
+
+# 多 GPU
+python -m src.train --device 0,1,2
+
+# CPU（不推荐，太慢）
+python -m src.train --device cpu
+```
+
 ## 下一步
 
 训练完成后，模型可用于：
 - 进球事件检测
+- 精彩集锦自动生成
 - 球员动作分析
 - 训练数据统计
 - 自动视频剪辑
