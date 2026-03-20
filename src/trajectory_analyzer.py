@@ -173,7 +173,7 @@ class TrajectoryAnalyzer:
         if is_near_hoop and passes_through_hoop:
             # 进一步判断：球是否在篮筐附近的x坐标处
             near_hoop_x = any(
-                abs(x - hoop_x) < self.hoop_proximity
+                abs(x - hoop_x) < self.hoop_proximity * 1.5
                 for x, y, _ in after_vertex if y > hoop_y
             )
 
