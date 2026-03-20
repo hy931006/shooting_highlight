@@ -206,6 +206,18 @@ class TrajectoryAnalyzer:
         # 使用默认的较低置信度
         confidence = self._calculate_confidence(trajectory, coeffs)
 
+        # 备选判定：如果轨迹有明显的上升-下降模式，可能是进球
+        if a < 0 and len(trajectory) >= 10:
+            # 检查最高点是否接近篮筐高度（放宽到 2.5倍）
+            if abs(vertex_y - hoop_y) < self.hoop_proximity * 2.5:
+                # 这是可能的进球
+                return {
+                    'type': 'made',
+                    'timestamp': timestamps[-1],
+                    'confidence': self._calculate_confidence(trajectory, coeffs) * 0.8,
+                    'trajectory_points': len(trajectory)
+                }
+
         return {
             'type': 'missed',
             'timestamp': timestamps[-1],
