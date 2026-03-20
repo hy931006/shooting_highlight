@@ -26,7 +26,7 @@ class TrajectoryAnalyzer:
 
     def __init__(
         self,
-        hoop_proximity: float = 50.0,
+        hoop_proximity: float = 80.0,  # 从 50.0 改为 80.0
         min_trajectory_points: int = 5,
         missed_confidence_multiplier: float = 0.6,
         mse_normalization: float = 10000.0,
