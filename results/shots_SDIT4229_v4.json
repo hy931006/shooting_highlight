@@ -1,0 +1,1840 @@
+{
+  "video": "./SDIT4229.MP4",
+  "events": [
+    {
+      "type": "missed",
+      "timestamp": 2.2666666666666666,
+      "confidence": 0.3839966501701246,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 3.8666666666666667,
+      "confidence": 0.9500169276732966,
+      "trajectory_points": 67
+    },
+    {
+      "type": "made",
+      "timestamp": 16.7,
+      "confidence": 0.9877578683525863,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 24.866666666666667,
+      "confidence": 0.746848079104305,
+      "trajectory_points": 93
+    },
+    {
+      "type": "made",
+      "timestamp": 31.4,
+      "confidence": 0.9588065336059188,
+      "trajectory_points": 95
+    },
+    {
+      "type": "missed",
+      "timestamp": 37.9,
+      "confidence": 0.5875597486121128,
+      "trajectory_points": 32
+    },
+    {
+      "type": "made",
+      "timestamp": 50.8,
+      "confidence": 0.77822059831348,
+      "trajectory_points": 34
+    },
+    {
+      "type": "made",
+      "timestamp": 50.9,
+      "confidence": 0.8003192677869755,
+      "trajectory_points": 12
+    },
+    {
+      "type": "made",
+      "timestamp": 55.4,
+      "confidence": 0.7840142459079221,
+      "trajectory_points": 32
+    },
+    {
+      "type": "made",
+      "timestamp": 56.4,
+      "confidence": 0.7837800711441649,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 62.43333333333333,
+      "confidence": 0.9831211121679932,
+      "trajectory_points": 34
+    },
+    {
+      "type": "missed",
+      "timestamp": 64.06666666666666,
+      "confidence": 0.3983972634325312,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 76.26666666666667,
+      "confidence": 0.7942698056867313,
+      "trajectory_points": 28
+    },
+    {
+      "type": "made",
+      "timestamp": 91.66666666666667,
+      "confidence": 0.6828404119461299,
+      "trajectory_points": 14
+    },
+    {
+      "type": "made",
+      "timestamp": 94.4,
+      "confidence": 0.7611454239313412,
+      "trajectory_points": 28
+    },
+    {
+      "type": "made",
+      "timestamp": 95.1,
+      "confidence": 0.9695752664664559,
+      "trajectory_points": 43
+    },
+    {
+      "type": "made",
+      "timestamp": 105.06666666666666,
+      "confidence": 0.7902797504099743,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 110.8,
+      "confidence": 0.7845248046541683,
+      "trajectory_points": 46
+    },
+    {
+      "type": "made",
+      "timestamp": 115.56666666666666,
+      "confidence": 0.9919937993095478,
+      "trajectory_points": 31
+    },
+    {
+      "type": "missed",
+      "timestamp": 122.46666666666667,
+      "confidence": 0.38395425646151005,
+      "trajectory_points": 5
+    },
+    {
+      "type": "missed",
+      "timestamp": 122.93333333333334,
+      "confidence": 0.383987223260361,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 124.13333333333334,
+      "confidence": 0.7501982120325869,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 128.5,
+      "confidence": 0.7791538704242296,
+      "trajectory_points": 35
+    },
+    {
+      "type": "made",
+      "timestamp": 137.63333333333333,
+      "confidence": 0.7905311264212582,
+      "trajectory_points": 24
+    },
+    {
+      "type": "made",
+      "timestamp": 140.6,
+      "confidence": 0.7950034194519525,
+      "trajectory_points": 26
+    },
+    {
+      "type": "made",
+      "timestamp": 140.83333333333334,
+      "confidence": 0.7586845304700238,
+      "trajectory_points": 10
+    },
+    {
+      "type": "made",
+      "timestamp": 147.86666666666667,
+      "confidence": 0.6845538308036174,
+      "trajectory_points": 14
+    },
+    {
+      "type": "made",
+      "timestamp": 153.73333333333332,
+      "confidence": 0.7965574542337569,
+      "trajectory_points": 25
+    },
+    {
+      "type": "made",
+      "timestamp": 155.6,
+      "confidence": 0.9757203837604793,
+      "trajectory_points": 70
+    },
+    {
+      "type": "missed",
+      "timestamp": 177.13333333333333,
+      "confidence": 0.4270896432443569,
+      "trajectory_points": 8
+    },
+    {
+      "type": "missed",
+      "timestamp": 178.36666666666667,
+      "confidence": 0.3839385082083387,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 192.33333333333334,
+      "confidence": 0.715010088001797,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 200.1,
+      "confidence": 0.8786958826106044,
+      "trajectory_points": 15
+    },
+    {
+      "type": "made",
+      "timestamp": 220.6,
+      "confidence": 0.7897201659577852,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 225.23333333333332,
+      "confidence": 0.7882590352002125,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 240.53333333333333,
+      "confidence": 0.7342308890124718,
+      "trajectory_points": 150
+    },
+    {
+      "type": "made",
+      "timestamp": 241.1,
+      "confidence": 0.703918110101501,
+      "trajectory_points": 15
+    },
+    {
+      "type": "made",
+      "timestamp": 252.9,
+      "confidence": 0.7803060788229552,
+      "trajectory_points": 44
+    },
+    {
+      "type": "made",
+      "timestamp": 261.73333333333335,
+      "confidence": 0.9614260810340085,
+      "trajectory_points": 123
+    },
+    {
+      "type": "made",
+      "timestamp": 269.26666666666665,
+      "confidence": 0.7649086222238628,
+      "trajectory_points": 29
+    },
+    {
+      "type": "made",
+      "timestamp": 273.6333333333333,
+      "confidence": 0.7585506229342327,
+      "trajectory_points": 33
+    },
+    {
+      "type": "missed",
+      "timestamp": 282.56666666666666,
+      "confidence": 0.4246273137298187,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 284.23333333333335,
+      "confidence": 0.973057514338189,
+      "trajectory_points": 87
+    },
+    {
+      "type": "made",
+      "timestamp": 288.03333333333336,
+      "confidence": 0.6461660447495565,
+      "trajectory_points": 12
+    },
+    {
+      "type": "made",
+      "timestamp": 299.6666666666667,
+      "confidence": 0.7576425212945126,
+      "trajectory_points": 75
+    },
+    {
+      "type": "made",
+      "timestamp": 308.93333333333334,
+      "confidence": 0.791237022278772,
+      "trajectory_points": 26
+    },
+    {
+      "type": "made",
+      "timestamp": 315.43333333333334,
+      "confidence": 0.7669176758687,
+      "trajectory_points": 96
+    },
+    {
+      "type": "made",
+      "timestamp": 325.93333333333334,
+      "confidence": 0.7302517809950457,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 326.8,
+      "confidence": 0.6639671709668009,
+      "trajectory_points": 6
+    },
+    {
+      "type": "missed",
+      "timestamp": 331.1333333333333,
+      "confidence": 0.3981962010079994,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 336.7,
+      "confidence": 0.769549901975228,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 337.3,
+      "confidence": 0.9726721833891145,
+      "trajectory_points": 58
+    },
+    {
+      "type": "made",
+      "timestamp": 347.3,
+      "confidence": 0.7794841773363438,
+      "trajectory_points": 29
+    },
+    {
+      "type": "missed",
+      "timestamp": 349.96666666666664,
+      "confidence": 0.5732598476232741,
+      "trajectory_points": 56
+    },
+    {
+      "type": "missed",
+      "timestamp": 355.9,
+      "confidence": 0.4555886566282499,
+      "trajectory_points": 10
+    },
+    {
+      "type": "made",
+      "timestamp": 357.6,
+      "confidence": 0.9714876497564413,
+      "trajectory_points": 87
+    },
+    {
+      "type": "made",
+      "timestamp": 371.5,
+      "confidence": 0.7198760897508903,
+      "trajectory_points": 16
+    },
+    {
+      "type": "made",
+      "timestamp": 373.56666666666666,
+      "confidence": 0.979956572559616,
+      "trajectory_points": 57
+    },
+    {
+      "type": "made",
+      "timestamp": 382.26666666666665,
+      "confidence": 0.7685752039084246,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 386.03333333333336,
+      "confidence": 0.9477585585040238,
+      "trajectory_points": 117
+    },
+    {
+      "type": "made",
+      "timestamp": 395.4,
+      "confidence": 0.7794300100339673,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 399.43333333333334,
+      "confidence": 0.9245764164174155,
+      "trajectory_points": 134
+    },
+    {
+      "type": "made",
+      "timestamp": 425.76666666666665,
+      "confidence": 0.6073734220182406,
+      "trajectory_points": 10
+    },
+    {
+      "type": "made",
+      "timestamp": 427.8666666666667,
+      "confidence": 0.7453394680203321,
+      "trajectory_points": 53
+    },
+    {
+      "type": "made",
+      "timestamp": 440.8,
+      "confidence": 0.7796005518441137,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 444.53333333333336,
+      "confidence": 0.7995422260490672,
+      "trajectory_points": 36
+    },
+    {
+      "type": "made",
+      "timestamp": 445.76666666666665,
+      "confidence": 0.7468324080648957,
+      "trajectory_points": 32
+    },
+    {
+      "type": "missed",
+      "timestamp": 446.03333333333336,
+      "confidence": 0.4271953670017829,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 466.03333333333336,
+      "confidence": 0.7460475635528907,
+      "trajectory_points": 80
+    },
+    {
+      "type": "made",
+      "timestamp": 470.3,
+      "confidence": 0.7974188517273766,
+      "trajectory_points": 29
+    },
+    {
+      "type": "made",
+      "timestamp": 471.8,
+      "confidence": 0.7876932855331946,
+      "trajectory_points": 32
+    },
+    {
+      "type": "made",
+      "timestamp": 483.96666666666664,
+      "confidence": 0.9945485289762637,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 484.8666666666667,
+      "confidence": 0.9725792397174311,
+      "trajectory_points": 19
+    },
+    {
+      "type": "made",
+      "timestamp": 491.6333333333333,
+      "confidence": 0.7624133036426994,
+      "trajectory_points": 47
+    },
+    {
+      "type": "missed",
+      "timestamp": 495.8666666666667,
+      "confidence": 0.39772839071378835,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 503.43333333333334,
+      "confidence": 0.748753737752307,
+      "trajectory_points": 114
+    },
+    {
+      "type": "missed",
+      "timestamp": 509.6,
+      "confidence": 0.4232354342759546,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 520.0,
+      "confidence": 0.766158643208767,
+      "trajectory_points": 83
+    },
+    {
+      "type": "missed",
+      "timestamp": 520.9,
+      "confidence": 0.4409255835584498,
+      "trajectory_points": 9
+    },
+    {
+      "type": "missed",
+      "timestamp": 524.6666666666666,
+      "confidence": 0.41441005178165397,
+      "trajectory_points": 8
+    },
+    {
+      "type": "missed",
+      "timestamp": 525.0,
+      "confidence": 0.43132349721439095,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 528.8333333333334,
+      "confidence": 0.7725345253720056,
+      "trajectory_points": 56
+    },
+    {
+      "type": "made",
+      "timestamp": 528.9,
+      "confidence": 0.9972479286297504,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 532.8333333333334,
+      "confidence": 0.7536711377358718,
+      "trajectory_points": 36
+    },
+    {
+      "type": "made",
+      "timestamp": 534.7333333333333,
+      "confidence": 0.9723807040724204,
+      "trajectory_points": 169
+    },
+    {
+      "type": "made",
+      "timestamp": 545.2,
+      "confidence": 0.7460891012655181,
+      "trajectory_points": 53
+    },
+    {
+      "type": "made",
+      "timestamp": 556.8,
+      "confidence": 0.7785306788057768,
+      "trajectory_points": 178
+    },
+    {
+      "type": "made",
+      "timestamp": 562.9333333333333,
+      "confidence": 0.7627921394824215,
+      "trajectory_points": 82
+    },
+    {
+      "type": "made",
+      "timestamp": 564.6666666666666,
+      "confidence": 0.7944381812829221,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 590.4666666666667,
+      "confidence": 0.7849580106300368,
+      "trajectory_points": 31
+    },
+    {
+      "type": "missed",
+      "timestamp": 600.8,
+      "confidence": 0.5742906826144879,
+      "trajectory_points": 36
+    },
+    {
+      "type": "missed",
+      "timestamp": 603.4666666666667,
+      "confidence": 0.38399985849417234,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 604.4666666666667,
+      "confidence": 0.7996260204069063,
+      "trajectory_points": 23
+    },
+    {
+      "type": "made",
+      "timestamp": 609.9,
+      "confidence": 0.7658740686318007,
+      "trajectory_points": 91
+    },
+    {
+      "type": "made",
+      "timestamp": 611.3333333333334,
+      "confidence": 0.6629998528262387,
+      "trajectory_points": 13
+    },
+    {
+      "type": "made",
+      "timestamp": 612.5666666666667,
+      "confidence": 0.7841151652742033,
+      "trajectory_points": 27
+    },
+    {
+      "type": "made",
+      "timestamp": 616.8333333333334,
+      "confidence": 0.7993897426967183,
+      "trajectory_points": 36
+    },
+    {
+      "type": "made",
+      "timestamp": 620.6,
+      "confidence": 0.76235433304263,
+      "trajectory_points": 106
+    },
+    {
+      "type": "made",
+      "timestamp": 637.0,
+      "confidence": 0.7976489508463049,
+      "trajectory_points": 23
+    },
+    {
+      "type": "made",
+      "timestamp": 637.4333333333333,
+      "confidence": 0.6450392049426752,
+      "trajectory_points": 12
+    },
+    {
+      "type": "missed",
+      "timestamp": 649.3,
+      "confidence": 0.3839509928581076,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 652.2666666666667,
+      "confidence": 0.7655644746435736,
+      "trajectory_points": 29
+    },
+    {
+      "type": "missed",
+      "timestamp": 655.9333333333333,
+      "confidence": 0.383986326223804,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 657.2,
+      "confidence": 0.7791478713124853,
+      "trajectory_points": 33
+    },
+    {
+      "type": "missed",
+      "timestamp": 661.5333333333333,
+      "confidence": 0.5631251944670435,
+      "trajectory_points": 18
+    },
+    {
+      "type": "made",
+      "timestamp": 664.6333333333333,
+      "confidence": 0.7877278475201879,
+      "trajectory_points": 87
+    },
+    {
+      "type": "made",
+      "timestamp": 675.9333333333333,
+      "confidence": 0.7919769115716104,
+      "trajectory_points": 32
+    },
+    {
+      "type": "missed",
+      "timestamp": 677.2666666666667,
+      "confidence": 0.3836925154398812,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 680.1666666666666,
+      "confidence": 0.7837836852729714,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 684.9333333333333,
+      "confidence": 0.7630565230029023,
+      "trajectory_points": 27
+    },
+    {
+      "type": "missed",
+      "timestamp": 693.6333333333333,
+      "confidence": 0.38390212514524674,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 701.7333333333333,
+      "confidence": 0.7999556214144699,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 703.4666666666667,
+      "confidence": 0.7792137647299854,
+      "trajectory_points": 46
+    },
+    {
+      "type": "made",
+      "timestamp": 704.7333333333333,
+      "confidence": 0.7999762983855501,
+      "trajectory_points": 34
+    },
+    {
+      "type": "missed",
+      "timestamp": 725.2333333333333,
+      "confidence": 0.3839999929496383,
+      "trajectory_points": 5
+    },
+    {
+      "type": "missed",
+      "timestamp": 736.4333333333333,
+      "confidence": 0.3983654465281427,
+      "trajectory_points": 6
+    },
+    {
+      "type": "missed",
+      "timestamp": 741.7,
+      "confidence": 0.38375870814116325,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 744.5333333333333,
+      "confidence": 0.7746867574122634,
+      "trajectory_points": 26
+    },
+    {
+      "type": "made",
+      "timestamp": 745.3,
+      "confidence": 0.9847751842985468,
+      "trajectory_points": 28
+    },
+    {
+      "type": "made",
+      "timestamp": 747.2,
+      "confidence": 0.7975109591295407,
+      "trajectory_points": 21
+    },
+    {
+      "type": "made",
+      "timestamp": 757.8666666666667,
+      "confidence": 0.7983140307649395,
+      "trajectory_points": 24
+    },
+    {
+      "type": "made",
+      "timestamp": 761.8,
+      "confidence": 0.9715243616495719,
+      "trajectory_points": 71
+    },
+    {
+      "type": "made",
+      "timestamp": 765.4666666666667,
+      "confidence": 0.9731515999378069,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 772.0333333333333,
+      "confidence": 0.9829281388214279,
+      "trajectory_points": 50
+    },
+    {
+      "type": "made",
+      "timestamp": 775.8,
+      "confidence": 0.755740343878814,
+      "trajectory_points": 39
+    },
+    {
+      "type": "made",
+      "timestamp": 777.7,
+      "confidence": 0.7883354452586551,
+      "trajectory_points": 24
+    },
+    {
+      "type": "made",
+      "timestamp": 781.3,
+      "confidence": 0.9579434968320244,
+      "trajectory_points": 82
+    },
+    {
+      "type": "made",
+      "timestamp": 789.6666666666666,
+      "confidence": 0.7220611603862415,
+      "trajectory_points": 59
+    },
+    {
+      "type": "made",
+      "timestamp": 795.6,
+      "confidence": 0.877400941793312,
+      "trajectory_points": 15
+    },
+    {
+      "type": "made",
+      "timestamp": 814.6666666666666,
+      "confidence": 0.7759858769311082,
+      "trajectory_points": 27
+    },
+    {
+      "type": "made",
+      "timestamp": 816.9666666666667,
+      "confidence": 0.7924359068850291,
+      "trajectory_points": 27
+    },
+    {
+      "type": "made",
+      "timestamp": 838.5333333333333,
+      "confidence": 0.8077077280136171,
+      "trajectory_points": 12
+    },
+    {
+      "type": "made",
+      "timestamp": 839.6,
+      "confidence": 0.6873454910929291,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 843.6666666666666,
+      "confidence": 0.6875480828566738,
+      "trajectory_points": 7
+    },
+    {
+      "type": "missed",
+      "timestamp": 851.9,
+      "confidence": 0.3839997129632295,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 855.0333333333333,
+      "confidence": 0.6633753895149642,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 867.1,
+      "confidence": 0.7763707791278223,
+      "trajectory_points": 96
+    },
+    {
+      "type": "made",
+      "timestamp": 870.0,
+      "confidence": 0.7400826426101402,
+      "trajectory_points": 17
+    },
+    {
+      "type": "made",
+      "timestamp": 872.3333333333334,
+      "confidence": 0.9988682979569938,
+      "trajectory_points": 20
+    },
+    {
+      "type": "made",
+      "timestamp": 873.3,
+      "confidence": 0.9969518969871591,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 888.0333333333333,
+      "confidence": 0.7186376157152066,
+      "trajectory_points": 16
+    },
+    {
+      "type": "made",
+      "timestamp": 889.0,
+      "confidence": 0.9933878710659716,
+      "trajectory_points": 26
+    },
+    {
+      "type": "missed",
+      "timestamp": 892.7333333333333,
+      "confidence": 0.41279235861551933,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 894.0666666666667,
+      "confidence": 0.6874643958005443,
+      "trajectory_points": 7
+    },
+    {
+      "type": "missed",
+      "timestamp": 896.4666666666667,
+      "confidence": 0.3839968111406921,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 898.8,
+      "confidence": 0.7857598647243407,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 901.0666666666667,
+      "confidence": 0.7581286903794026,
+      "trajectory_points": 68
+    },
+    {
+      "type": "made",
+      "timestamp": 907.6333333333333,
+      "confidence": 0.7974969211307825,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 919.3333333333334,
+      "confidence": 0.7887707684121708,
+      "trajectory_points": 33
+    },
+    {
+      "type": "missed",
+      "timestamp": 927.6333333333333,
+      "confidence": 0.39839987089033674,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 933.9666666666667,
+      "confidence": 0.7617971523723943,
+      "trajectory_points": 70
+    },
+    {
+      "type": "made",
+      "timestamp": 934.7666666666667,
+      "confidence": 0.6078804962389328,
+      "trajectory_points": 10
+    },
+    {
+      "type": "missed",
+      "timestamp": 937.2666666666667,
+      "confidence": 0.4127961345085756,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 938.3,
+      "confidence": 0.9768334388351214,
+      "trajectory_points": 48
+    },
+    {
+      "type": "made",
+      "timestamp": 950.9666666666667,
+      "confidence": 0.6650197110874917,
+      "trajectory_points": 13
+    },
+    {
+      "type": "made",
+      "timestamp": 971.0333333333333,
+      "confidence": 0.7273955773680569,
+      "trajectory_points": 65
+    },
+    {
+      "type": "missed",
+      "timestamp": 977.1333333333333,
+      "confidence": 0.4270799531940627,
+      "trajectory_points": 8
+    },
+    {
+      "type": "missed",
+      "timestamp": 980.8333333333334,
+      "confidence": 0.44156364205814397,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 983.9,
+      "confidence": 0.7621571350063564,
+      "trajectory_points": 68
+    },
+    {
+      "type": "made",
+      "timestamp": 985.7666666666667,
+      "confidence": 0.9882080595256786,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 986.5666666666667,
+      "confidence": 0.7585001071295188,
+      "trajectory_points": 10
+    },
+    {
+      "type": "missed",
+      "timestamp": 988.1666666666666,
+      "confidence": 0.3837540420932908,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 992.4666666666667,
+      "confidence": 0.7795465392108378,
+      "trajectory_points": 28
+    },
+    {
+      "type": "made",
+      "timestamp": 993.1666666666666,
+      "confidence": 0.9908579407422333,
+      "trajectory_points": 25
+    },
+    {
+      "type": "made",
+      "timestamp": 1016.6666666666666,
+      "confidence": 0.740279350957257,
+      "trajectory_points": 17
+    },
+    {
+      "type": "made",
+      "timestamp": 1017.7333333333333,
+      "confidence": 0.9800773159807974,
+      "trajectory_points": 67
+    },
+    {
+      "type": "made",
+      "timestamp": 1027.9333333333334,
+      "confidence": 0.761335321286585,
+      "trajectory_points": 83
+    },
+    {
+      "type": "missed",
+      "timestamp": 1030.0333333333333,
+      "confidence": 0.4271268495226048,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 1032.2,
+      "confidence": 0.7895855347541678,
+      "trajectory_points": 33
+    },
+    {
+      "type": "missed",
+      "timestamp": 1034.2666666666667,
+      "confidence": 0.3839953448860864,
+      "trajectory_points": 5
+    },
+    {
+      "type": "missed",
+      "timestamp": 1034.4666666666667,
+      "confidence": 0.38292144695992697,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1036.3666666666666,
+      "confidence": 0.7889751066573686,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 1040.8,
+      "confidence": 0.7857677610152968,
+      "trajectory_points": 29
+    },
+    {
+      "type": "made",
+      "timestamp": 1048.8333333333333,
+      "confidence": 0.774137925226445,
+      "trajectory_points": 151
+    },
+    {
+      "type": "made",
+      "timestamp": 1057.9666666666667,
+      "confidence": 0.7853951764312921,
+      "trajectory_points": 31
+    },
+    {
+      "type": "made",
+      "timestamp": 1071.9666666666667,
+      "confidence": 0.7546109346740475,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 1073.4666666666667,
+      "confidence": 0.7148659603438499,
+      "trajectory_points": 16
+    },
+    {
+      "type": "made",
+      "timestamp": 1096.1333333333334,
+      "confidence": 0.7752810503902915,
+      "trajectory_points": 57
+    },
+    {
+      "type": "made",
+      "timestamp": 1099.2333333333333,
+      "confidence": 0.6863546726382097,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 1102.8333333333333,
+      "confidence": 0.7814506962504588,
+      "trajectory_points": 28
+    },
+    {
+      "type": "made",
+      "timestamp": 1114.7666666666667,
+      "confidence": 0.6463845288777093,
+      "trajectory_points": 12
+    },
+    {
+      "type": "made",
+      "timestamp": 1118.2666666666667,
+      "confidence": 0.7775491394135756,
+      "trajectory_points": 26
+    },
+    {
+      "type": "made",
+      "timestamp": 1119.0,
+      "confidence": 0.7992679037536723,
+      "trajectory_points": 21
+    },
+    {
+      "type": "made",
+      "timestamp": 1123.8333333333333,
+      "confidence": 0.7786553161931407,
+      "trajectory_points": 54
+    },
+    {
+      "type": "missed",
+      "timestamp": 1138.9666666666667,
+      "confidence": 0.44149021520101467,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 1142.3,
+      "confidence": 0.766918101003229,
+      "trajectory_points": 83
+    },
+    {
+      "type": "made",
+      "timestamp": 1143.3666666666666,
+      "confidence": 0.9772790975995855,
+      "trajectory_points": 45
+    },
+    {
+      "type": "missed",
+      "timestamp": 1151.4666666666667,
+      "confidence": 0.5661647014322565,
+      "trajectory_points": 60
+    },
+    {
+      "type": "made",
+      "timestamp": 1154.4666666666667,
+      "confidence": 0.6271978579320084,
+      "trajectory_points": 11
+    },
+    {
+      "type": "made",
+      "timestamp": 1158.7,
+      "confidence": 0.7736693992775637,
+      "trajectory_points": 29
+    },
+    {
+      "type": "missed",
+      "timestamp": 1167.0333333333333,
+      "confidence": 0.4262401896657149,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 1170.1333333333334,
+      "confidence": 0.7657176080765278,
+      "trajectory_points": 78
+    },
+    {
+      "type": "made",
+      "timestamp": 1170.8333333333333,
+      "confidence": 0.9710028681217842,
+      "trajectory_points": 68
+    },
+    {
+      "type": "made",
+      "timestamp": 1178.7333333333333,
+      "confidence": 0.7860309522430238,
+      "trajectory_points": 48
+    },
+    {
+      "type": "missed",
+      "timestamp": 1179.0,
+      "confidence": 0.39760563164257606,
+      "trajectory_points": 6
+    },
+    {
+      "type": "missed",
+      "timestamp": 1197.9,
+      "confidence": 0.4127780288396549,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 1204.2333333333333,
+      "confidence": 0.6654732495208493,
+      "trajectory_points": 13
+    },
+    {
+      "type": "made",
+      "timestamp": 1208.5,
+      "confidence": 0.7908797744875078,
+      "trajectory_points": 23
+    },
+    {
+      "type": "missed",
+      "timestamp": 1215.9,
+      "confidence": 0.4269225056259068,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 1217.9,
+      "confidence": 0.7677715582031786,
+      "trajectory_points": 51
+    },
+    {
+      "type": "made",
+      "timestamp": 1246.3666666666666,
+      "confidence": 0.7616554187495606,
+      "trajectory_points": 77
+    },
+    {
+      "type": "missed",
+      "timestamp": 1262.9333333333334,
+      "confidence": 0.5629231258085514,
+      "trajectory_points": 105
+    },
+    {
+      "type": "made",
+      "timestamp": 1266.9,
+      "confidence": 0.7108595979897641,
+      "trajectory_points": 8
+    },
+    {
+      "type": "missed",
+      "timestamp": 1269.6666666666667,
+      "confidence": 0.43727659773024424,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 1273.3333333333333,
+      "confidence": 0.7205250550927451,
+      "trajectory_points": 16
+    },
+    {
+      "type": "made",
+      "timestamp": 1280.5333333333333,
+      "confidence": 0.6463883268160869,
+      "trajectory_points": 12
+    },
+    {
+      "type": "made",
+      "timestamp": 1282.4,
+      "confidence": 0.9231966361987094,
+      "trajectory_points": 17
+    },
+    {
+      "type": "made",
+      "timestamp": 1284.4,
+      "confidence": 0.9856124286139274,
+      "trajectory_points": 48
+    },
+    {
+      "type": "missed",
+      "timestamp": 1286.1333333333334,
+      "confidence": 0.39838546285512727,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1288.2666666666667,
+      "confidence": 0.6633809689477866,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1291.6666666666667,
+      "confidence": 0.7190252864396737,
+      "trajectory_points": 16
+    },
+    {
+      "type": "made",
+      "timestamp": 1292.4,
+      "confidence": 0.7423911705366684,
+      "trajectory_points": 17
+    },
+    {
+      "type": "made",
+      "timestamp": 1294.4333333333334,
+      "confidence": 0.778735180378272,
+      "trajectory_points": 38
+    },
+    {
+      "type": "made",
+      "timestamp": 1295.4,
+      "confidence": 0.7827895889295573,
+      "trajectory_points": 11
+    },
+    {
+      "type": "missed",
+      "timestamp": 1297.3666666666666,
+      "confidence": 0.38399756410762065,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1298.9,
+      "confidence": 0.7110349341560622,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 1299.5666666666666,
+      "confidence": 0.6389881447124601,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1303.3,
+      "confidence": 0.6844849113410055,
+      "trajectory_points": 14
+    },
+    {
+      "type": "made",
+      "timestamp": 1304.8333333333333,
+      "confidence": 0.977431834112837,
+      "trajectory_points": 50
+    },
+    {
+      "type": "made",
+      "timestamp": 1306.8,
+      "confidence": 0.6627368875870356,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1340.3,
+      "confidence": 0.7496996819635101,
+      "trajectory_points": 29
+    },
+    {
+      "type": "missed",
+      "timestamp": 1343.9333333333334,
+      "confidence": 0.4414655212719387,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 1345.9333333333334,
+      "confidence": 0.665545815826434,
+      "trajectory_points": 13
+    },
+    {
+      "type": "made",
+      "timestamp": 1352.9,
+      "confidence": 0.9615265336827354,
+      "trajectory_points": 77
+    },
+    {
+      "type": "missed",
+      "timestamp": 1360.2666666666667,
+      "confidence": 0.3839668272474195,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1378.0,
+      "confidence": 0.7845549749600903,
+      "trajectory_points": 36
+    },
+    {
+      "type": "missed",
+      "timestamp": 1388.6333333333334,
+      "confidence": 0.4268202074283536,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 1402.2666666666667,
+      "confidence": 0.6271579943310169,
+      "trajectory_points": 11
+    },
+    {
+      "type": "made",
+      "timestamp": 1408.4666666666667,
+      "confidence": 0.7971301190548593,
+      "trajectory_points": 37
+    },
+    {
+      "type": "made",
+      "timestamp": 1411.4666666666667,
+      "confidence": 0.970092168233194,
+      "trajectory_points": 61
+    },
+    {
+      "type": "missed",
+      "timestamp": 1416.6666666666667,
+      "confidence": 0.38390983480523083,
+      "trajectory_points": 5
+    },
+    {
+      "type": "missed",
+      "timestamp": 1438.0666666666666,
+      "confidence": 0.40983374878446904,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 1439.2,
+      "confidence": 0.9552238050683146,
+      "trajectory_points": 113
+    },
+    {
+      "type": "made",
+      "timestamp": 1443.3,
+      "confidence": 0.9800742824778144,
+      "trajectory_points": 38
+    },
+    {
+      "type": "made",
+      "timestamp": 1450.7333333333333,
+      "confidence": 0.7592409680857832,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 1451.3666666666666,
+      "confidence": 0.956413855319761,
+      "trajectory_points": 49
+    },
+    {
+      "type": "made",
+      "timestamp": 1457.1666666666667,
+      "confidence": 0.7827074039366648,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 1461.5666666666666,
+      "confidence": 0.9872926160209843,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 1468.6333333333334,
+      "confidence": 0.7413660525103009,
+      "trajectory_points": 112
+    },
+    {
+      "type": "made",
+      "timestamp": 1470.1666666666667,
+      "confidence": 0.7738492501485061,
+      "trajectory_points": 34
+    },
+    {
+      "type": "made",
+      "timestamp": 1479.0333333333333,
+      "confidence": 0.7604141817757837,
+      "trajectory_points": 46
+    },
+    {
+      "type": "made",
+      "timestamp": 1482.5333333333333,
+      "confidence": 0.7741356125221612,
+      "trajectory_points": 62
+    },
+    {
+      "type": "missed",
+      "timestamp": 1496.0333333333333,
+      "confidence": 0.383418388948257,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1499.3,
+      "confidence": 0.7917519870511669,
+      "trajectory_points": 29
+    },
+    {
+      "type": "missed",
+      "timestamp": 1500.0666666666666,
+      "confidence": 0.42719976705253543,
+      "trajectory_points": 8
+    },
+    {
+      "type": "made",
+      "timestamp": 1504.6333333333334,
+      "confidence": 0.7227298038877363,
+      "trajectory_points": 16
+    },
+    {
+      "type": "missed",
+      "timestamp": 1511.9,
+      "confidence": 0.3983859866324608,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1525.8333333333333,
+      "confidence": 0.7733231995466174,
+      "trajectory_points": 102
+    },
+    {
+      "type": "made",
+      "timestamp": 1530.7666666666667,
+      "confidence": 0.7497018822033743,
+      "trajectory_points": 109
+    },
+    {
+      "type": "made",
+      "timestamp": 1540.8,
+      "confidence": 0.7249708617514259,
+      "trajectory_points": 147
+    },
+    {
+      "type": "made",
+      "timestamp": 1546.9333333333334,
+      "confidence": 0.7759640986479938,
+      "trajectory_points": 148
+    },
+    {
+      "type": "made",
+      "timestamp": 1550.7666666666667,
+      "confidence": 0.7912931748655985,
+      "trajectory_points": 29
+    },
+    {
+      "type": "made",
+      "timestamp": 1558.2,
+      "confidence": 0.7683561884829685,
+      "trajectory_points": 110
+    },
+    {
+      "type": "made",
+      "timestamp": 1559.9,
+      "confidence": 0.7907950546328684,
+      "trajectory_points": 12
+    },
+    {
+      "type": "made",
+      "timestamp": 1562.2666666666667,
+      "confidence": 0.7353080067873079,
+      "trajectory_points": 39
+    },
+    {
+      "type": "made",
+      "timestamp": 1568.4666666666667,
+      "confidence": 0.9924657204943967,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 1574.3,
+      "confidence": 0.7863352071312513,
+      "trajectory_points": 32
+    },
+    {
+      "type": "made",
+      "timestamp": 1576.7,
+      "confidence": 0.759858361494911,
+      "trajectory_points": 36
+    },
+    {
+      "type": "made",
+      "timestamp": 1583.3666666666666,
+      "confidence": 0.7599786965014531,
+      "trajectory_points": 35
+    },
+    {
+      "type": "made",
+      "timestamp": 1587.3333333333333,
+      "confidence": 0.7690805110836518,
+      "trajectory_points": 83
+    },
+    {
+      "type": "made",
+      "timestamp": 1600.3,
+      "confidence": 0.7404541709033389,
+      "trajectory_points": 17
+    },
+    {
+      "type": "made",
+      "timestamp": 1601.2,
+      "confidence": 0.9814634834791136,
+      "trajectory_points": 50
+    },
+    {
+      "type": "made",
+      "timestamp": 1603.1666666666667,
+      "confidence": 0.7331246366273028,
+      "trajectory_points": 9
+    },
+    {
+      "type": "made",
+      "timestamp": 1619.2,
+      "confidence": 0.9748535559696403,
+      "trajectory_points": 100
+    },
+    {
+      "type": "missed",
+      "timestamp": 1625.1333333333334,
+      "confidence": 0.3839987601523599,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1633.8333333333333,
+      "confidence": 0.7733234866393233,
+      "trajectory_points": 119
+    },
+    {
+      "type": "missed",
+      "timestamp": 1634.0666666666666,
+      "confidence": 0.39835204739092334,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1643.9,
+      "confidence": 0.7758355202629397,
+      "trajectory_points": 197
+    },
+    {
+      "type": "missed",
+      "timestamp": 1649.8,
+      "confidence": 0.38399843665359945,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1651.7333333333333,
+      "confidence": 0.9841154150121885,
+      "trajectory_points": 59
+    },
+    {
+      "type": "made",
+      "timestamp": 1655.5666666666666,
+      "confidence": 0.6870256658702902,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 1661.0333333333333,
+      "confidence": 0.9249443545829441,
+      "trajectory_points": 210
+    },
+    {
+      "type": "made",
+      "timestamp": 1672.6666666666667,
+      "confidence": 0.7912545591355399,
+      "trajectory_points": 32
+    },
+    {
+      "type": "made",
+      "timestamp": 1677.0,
+      "confidence": 0.9926172421674979,
+      "trajectory_points": 32
+    },
+    {
+      "type": "made",
+      "timestamp": 1678.3333333333333,
+      "confidence": 0.6079977177542258,
+      "trajectory_points": 10
+    },
+    {
+      "type": "made",
+      "timestamp": 1685.2,
+      "confidence": 0.7731132234833424,
+      "trajectory_points": 113
+    },
+    {
+      "type": "made",
+      "timestamp": 1686.1,
+      "confidence": 0.7931825464586979,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 1690.0333333333333,
+      "confidence": 0.9588929755849431,
+      "trajectory_points": 120
+    },
+    {
+      "type": "made",
+      "timestamp": 1700.2666666666667,
+      "confidence": 0.7644820442363232,
+      "trajectory_points": 85
+    },
+    {
+      "type": "made",
+      "timestamp": 1703.1,
+      "confidence": 0.745722292608413,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 1708.2333333333333,
+      "confidence": 0.7907467006304526,
+      "trajectory_points": 28
+    },
+    {
+      "type": "made",
+      "timestamp": 1712.6666666666667,
+      "confidence": 0.7386088154910875,
+      "trajectory_points": 31
+    },
+    {
+      "type": "missed",
+      "timestamp": 1715.1333333333334,
+      "confidence": 0.4127463874511562,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 1717.8333333333333,
+      "confidence": 0.7770745011663718,
+      "trajectory_points": 25
+    },
+    {
+      "type": "made",
+      "timestamp": 1730.4333333333334,
+      "confidence": 0.9754290442607794,
+      "trajectory_points": 76
+    },
+    {
+      "type": "made",
+      "timestamp": 1746.4333333333334,
+      "confidence": 0.7387996632949406,
+      "trajectory_points": 17
+    },
+    {
+      "type": "made",
+      "timestamp": 1750.4333333333334,
+      "confidence": 0.994206666443475,
+      "trajectory_points": 32
+    },
+    {
+      "type": "missed",
+      "timestamp": 1752.2,
+      "confidence": 0.3983929748786373,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1757.5,
+      "confidence": 0.7989188233822552,
+      "trajectory_points": 33
+    },
+    {
+      "type": "made",
+      "timestamp": 1764.2,
+      "confidence": 0.7976995929662343,
+      "trajectory_points": 25
+    },
+    {
+      "type": "made",
+      "timestamp": 1764.9333333333334,
+      "confidence": 0.985265569308877,
+      "trajectory_points": 71
+    },
+    {
+      "type": "missed",
+      "timestamp": 1778.3,
+      "confidence": 0.3834811967596211,
+      "trajectory_points": 5
+    },
+    {
+      "type": "made",
+      "timestamp": 1791.0,
+      "confidence": 0.7868077601739482,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 1795.4666666666667,
+      "confidence": 0.7856250574709626,
+      "trajectory_points": 26
+    },
+    {
+      "type": "made",
+      "timestamp": 1797.0,
+      "confidence": 0.7846724564798117,
+      "trajectory_points": 46
+    },
+    {
+      "type": "made",
+      "timestamp": 1799.1333333333334,
+      "confidence": 0.7023637773648871,
+      "trajectory_points": 15
+    },
+    {
+      "type": "made",
+      "timestamp": 1809.2666666666667,
+      "confidence": 0.7862553996073235,
+      "trajectory_points": 22
+    },
+    {
+      "type": "made",
+      "timestamp": 1811.1,
+      "confidence": 0.7790241569022369,
+      "trajectory_points": 37
+    },
+    {
+      "type": "made",
+      "timestamp": 1811.3666666666666,
+      "confidence": 0.8511520571652069,
+      "trajectory_points": 14
+    },
+    {
+      "type": "made",
+      "timestamp": 1823.5333333333333,
+      "confidence": 0.7784220746285234,
+      "trajectory_points": 30
+    },
+    {
+      "type": "made",
+      "timestamp": 1827.8666666666666,
+      "confidence": 0.781108977905902,
+      "trajectory_points": 23
+    },
+    {
+      "type": "missed",
+      "timestamp": 1831.9,
+      "confidence": 0.3973332510697796,
+      "trajectory_points": 6
+    },
+    {
+      "type": "made",
+      "timestamp": 1836.5333333333333,
+      "confidence": 0.9787797777916125,
+      "trajectory_points": 62
+    },
+    {
+      "type": "missed",
+      "timestamp": 1840.5,
+      "confidence": 0.4118085535787445,
+      "trajectory_points": 7
+    },
+    {
+      "type": "made",
+      "timestamp": 1845.3,
+      "confidence": 0.7718083395517339,
+      "trajectory_points": 40
+    }
+  ],
+  "summary": {
+    "total_made": 241,
+    "total_missed": 64,
+    "duration": 1845.3333333333333
+  }
+}
