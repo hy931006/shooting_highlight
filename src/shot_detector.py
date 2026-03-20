@@ -27,7 +27,8 @@ class ShotDetector:
         model_path: str = None,
         conf_threshold: float = 0.25,
         hoop_detect_frames: int = 10,
-        hoop_confirm_threshold: float = 0.6
+        hoop_confirm_threshold: float = 0.6,
+        device: str = "directml"
     ):
         """
         初始化检测器
@@ -37,6 +38,7 @@ class ShotDetector:
             conf_threshold: 置信度阈值
             hoop_detect_frames: 篮筐检测使用的帧数
             hoop_confirm_threshold: 篮筐确认置信度阈值
+            device: 推理设备 (cpu, directml, 0, 1, 2, 3)
         """
         # 加载模型
         if model_path:
@@ -48,6 +50,10 @@ class ShotDetector:
                 self.model = YOLO(default_model)
             else:
                 raise FileNotFoundError("未找到模型文件")
+
+        # 设置推理设备
+        # ultralytics 通过 predict() 的 device 参数支持 directml
+        self.device = device
 
         self.conf_threshold = conf_threshold
         self.hoop_detect_frames = hoop_detect_frames
@@ -106,7 +112,8 @@ class ShotDetector:
             results = self.model.predict(
                 source=frame,
                 conf=self.conf_threshold,
-                verbose=False
+                verbose=False,
+                device=self.device
             )
 
             # 解析检测结果
@@ -166,7 +173,8 @@ class ShotDetector:
             results = self.model.predict(
                 source=frame,
                 conf=self.conf_threshold,
-                verbose=False
+                verbose=False,
+                device=self.device
             )
 
             detections = self._parse_detections(results[0])
@@ -221,11 +229,17 @@ def main():
     parser.add_argument('--model', '-m', help='模型文件路径')
     parser.add_argument('--output', '-o', help='输出JSON文件路径')
     parser.add_argument('--conf', '-c', type=float, default=0.25, help='置信度阈值')
+    parser.add_argument('--device', '-d', type=str, default='cpu',
+                        help='推理设备: cpu, directml, 0, 1, 2, 3 (默认: cpu)')
 
     args = parser.parse_args()
 
     # 创建检测器
-    detector = ShotDetector(model_path=args.model, conf_threshold=args.conf)
+    detector = ShotDetector(
+        model_path=args.model,
+        conf_threshold=args.conf,
+        device=args.device
+    )
 
     # 检测
     result = detector.detect_video(args.video)

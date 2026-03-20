@@ -74,7 +74,8 @@ PATHS:
   val_images: data/images/val
   train_labels: data/labels/train
   val_labels: data/labels/val
-  # 模型输出
-  models_dir: models
   # 推理结果
   results_dir: results
+
+# 模型输出目录（顶级配置）
+models_dir: models
