@@ -21,8 +21,8 @@ class TrajectoryAnalyzer:
     通过抛物线拟合分析篮球轨迹，判断进球/丢球事件
     """
 
-    # 类别名称常量
-    CLASS_HOOP = 'basketball hoop'
+    # 类别名称常量 (与config.yaml一致)
+    CLASS_HOOP = 'hoop'
 
     def __init__(
         self,
